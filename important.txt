@@ -1,0 +1,16 @@
+The executable jar file for the application is located at : 
+LibraryIMS > dist > LibraryIMS.jar
+
+The application is built and uploaded without database so both the user and admin pages are available for reaching out to the app.
+
+Additionally, application usage videos and database queries are provided in this zip file.
+Videos are in the Librarian.pptx PowerPoint slideshow,
+and the database queries are available in LibraryIMS > sql_backup.
+
+If the jar file doesn't work, you can also try logging the following command in cmd or any terminals: 
+java -jar "C:\Users\___\Desktop\libraryManagementSystem\LibraryIMS\dist\LibraryIMS.jar"
+adjusting to your own computer username above
+
+For further questions, please mail below: 
+ozlemnduman34@hotmail.com
+github.com/gramchelle

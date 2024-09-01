@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LibraryIMS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LibraryIMS/dist/LibraryIMS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
